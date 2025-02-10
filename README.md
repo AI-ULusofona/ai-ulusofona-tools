@@ -1,2 +1,2 @@
-# ai-ulusofona-pt
-AI tools available in Universidade Lusófona
+# Ferramentas AI da Universidade Lusófona / AI tools in Universidade Lusófona
+
