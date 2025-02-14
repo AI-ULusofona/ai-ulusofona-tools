@@ -1,4 +1,4 @@
-# Ferramentas de IA na Universidade Lusófona / AI tools in Universidade Lusófona
+# Ferramentas de IA na Universidade Lusófona
 
 ## [ChatGPT](https://chatgpt.com/)
 O ChatGPT é um modelo avançado de inteligência artificial desenvolvido pela OpenAI, capaz de compreender e gerar texto de forma natural para responder a perguntas, auxiliar na escrita e resolver problemas. Foi treinado com uma vasta quantidade de dados e pode ser utilizado para diversos fins, como educação, programação e apoio ao utilizador.
