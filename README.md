@@ -10,3 +10,11 @@ O Midjourney é uma ferramenta de inteligência artificial que gera imagens a pa
 
 ## [Runway](https://runwayml.com/)
 O Runway é uma plataforma de inteligência artificial focada em criação multimédia, permitindo a geração e edição de vídeos, imagens e modelos 3D de forma intuitiva. É amplamente utilizado por cineastas, designers e criadores de conteúdo para explorar novas possibilidades criativas com IA.
+
+
+## [NoodleFactory (Philix)](https://www.noodlefactory.ai/)
+A Noodle Factory (Philix) é uma plataforma de inteligência artificial que automatiza a criação de conteúdos educativos, ajudando professores e instituições a gerar materiais de aprendizagem interativos. Utiliza IA para transformar textos em quizzes, resumos e outros formatos, otimizando o processo de ensino e aprendizagem.
+
+
+## [Copilot](https://copilot.microsoft.com/)
+O Copilot é uma ferramenta de inteligência artificial da Microsoft que assiste utilizadores em diversas tarefas, como programação, escrita e produtividade. Integrado em produtos como GitHub, Word e Excel, sugere código, textos e automações para facilitar o trabalho.
