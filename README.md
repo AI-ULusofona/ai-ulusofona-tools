@@ -17,7 +17,7 @@ A Noodle Factory (Philix) é uma plataforma de inteligência artificial que auto
 
 
 ## [Copilot](https://copilot.microsoft.com/)
-O Copilot é uma ferramenta de inteligência artificial da Microsoft que assiste utilizadores em diversas tarefas, como programação, escrita e produtividade. Integrado em produtos como GitHub, Word e Excel, sugere código, textos e automações para facilitar o trabalho.
+O Copilot é uma ferramenta de inteligência artificial da Microsoft que assiste utilizadores em diversas tarefas, como programação, escrita e produtividade. Integrado em produtos como GitHub, Word, Excel e PowerPoint, sugere código, textos, fórmulas e apresentações para facilitar e acelerar o trabalho. O Copilot adapta-se ao contexto da aplicação em uso, oferecendo sugestões relevantes com base em linguagem natural e inteligência artificial avançada.
 
-
-copilot studio
+## [Copilot Studio](https://aka.ms/copilotstudio)
+O Copilot Studio é uma plataforma da Microsoft que permite criar e personalizar copilotos (assistentes de conversação com IA) para empresas e organizações. Sem necessidade de programar, os utilizadores podem desenvolver experiências interativas através de fluxos, conectores de dados (como SharePoint, Dataverse ou APIs externas), e integração com modelos de linguagem. É ideal para automatizar respostas a perguntas frequentes, criar assistentes internos e integrar IA generativa nos processos empresariais.
